@@ -19,6 +19,7 @@ AWS_ACCESS_KEY_ID            <access key id>                env
 AWS_SECRET_ACESS_KEY        <secret acess key>          env
 
 
+NOTE - update versions.tf with terraform cloud organization name. 
 
 execute from local terminal or from terraform cloud.
 
