@@ -7,11 +7,18 @@ I use terraform cloud to create 3-tir infrastructure.
 
 Create following workspace variables in terraform cloud.
 
-key                         value                      Category
-namespace               my-3tier-terraform              terraform
-region                   us-east-1                      terraform
-AWS_ACCESS_KEY_ID        <access key id>                env
-AWS_SECRET_ACESS_KEY        <secret acess key>.         env
+key                           value                       Category
+
+namespace                 my-3tier-terraform              terraform
+
+
+region                       us-east-1                      terraform
+
+AWS_ACCESS_KEY_ID            <access key id>                env
+
+AWS_SECRET_ACESS_KEY        <secret acess key>          env
+
+
 
 execute from local terminal or from terraform cloud.
 
